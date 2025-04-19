@@ -6,6 +6,7 @@ Here, I'll be sharing:
 
 *   **Tutorials:** Projects I've made following tutorials on concepts I'm learning, from basic data connection and transformation to advanced DAX calculations and data modeling.
 *   **Projects:** Practical examples and projects where I apply my Power BI skills to real-world datasets.
+*   **Resources:** Resrouces i've used for my learning journey
 
 My goal is to create a comprehensive record of my progress, which can also serve as a resource for others beginning their Power BI journey.
 
